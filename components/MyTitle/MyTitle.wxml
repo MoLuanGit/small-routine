@@ -1,0 +1,15 @@
+<view class="my_title">
+  <navigator class="logo">
+    <image style="width:140rpx;height:60rpx;" class="logo_img" src="../../img/logo.JPG"></image>
+  </navigator>
+  <view class="search_icon"> 
+    <image style="width:60rpx;height:44rpx;" src="../../img/search.JPG"></image>
+  </view>
+  <view class="user_icon"> 
+    <image style="width:54rpx;height:60rpx;" src="../../img/user.JPG"></image>
+  </view>
+  <view class="down_app"> 
+    下载 APP
+  </view>
+  <!-- https://easy-mock.com/mock/5c1dfd98e8bfa547414a5278/bili -->
+</view>
